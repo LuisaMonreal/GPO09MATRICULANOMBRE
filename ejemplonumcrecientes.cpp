@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        cout << "Sus números no están en orden creciente" << endl;
+        cout << "Sus números no están en orden creciente" << endl;  // favor de agregar los saltos de linea con \n
         return main();
         
     }
